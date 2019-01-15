@@ -1,0 +1,14 @@
+{
+    "jest": {
+        "testMatch": [
+            "**/*.test.js"
+        ]
+    },
+    "devDependencies": {
+        "jest": "^23.6.0",
+        "jest-runner-mocha": "^0.6.0"
+    },
+    "scripts": {
+        "test": "jest"
+    }
+}
